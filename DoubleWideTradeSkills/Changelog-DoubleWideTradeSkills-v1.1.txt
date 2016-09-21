@@ -1,0 +1,33 @@
+------------------------------------------------------------------------
+r14 | ghunor | 2010-11-05 03:59:33 +0000 (Fri, 05 Nov 2010) | 1 line
+Changed paths:
+   A /tags/v1.1 (from /trunk:13)
+
+Version 1.1
+------------------------------------------------------------------------
+r11 | ghunor | 2010-11-05 03:53:30 +0000 (Fri, 05 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/DoubleWideTradeSkills.lua
+   M /trunk/DoubleWideTradeSkills.toc
+
+Updated buttons on bottom to be left aligned.
+------------------------------------------------------------------------
+r9 | ghunor | 2010-10-26 01:31:40 +0000 (Tue, 26 Oct 2010) | 1 line
+Changed paths:
+   D /trunk/.pkgmeta
+   D /trunk/DWTS-Bot.blp
+   D /trunk/DWTS-BotLeft.blp
+   D /trunk/DWTS-BotRight.blp
+   D /trunk/DWTS-Link-Bot.blp
+   D /trunk/DWTS-Link-BotRight.blp
+   D /trunk/DWTS-Top.blp
+   D /trunk/DWTS-TopLeft.blp
+   D /trunk/DWTS-TopRight.blp
+   D /trunk/DWTS-TwoButton-Bot.blp
+   M /trunk/DoubleWideTradeSkills.lua
+   M /trunk/DoubleWideTradeSkills.toc
+   A /trunk/images/BarBorder.tga
+   D /trunk/images/DWTS.psd
+
+Updated to work for 4.0.1
+------------------------------------------------------------------------

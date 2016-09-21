@@ -1,0 +1,21 @@
+﻿## Interface: 70000
+## Version: 1.1.6
+## Author: Areko & Abin
+## Title:WhisperInvite & WhisperPop
+## Title-zhCN:|cffC495DD[聊天]|r密语增强
+## Title-zhTW:|cffC495DD[聊天]|r密語增强
+## Notes-zhCN: 根据各个玩家在聊天频道所发的关键词内容，自动组到队伍中，如队伍已满则自动转为团队。&简洁的密语提醒,通过图标闪烁的方式提醒你。
+## Notes-zhTW: 自動組隊插件，根據玩家在頻道所發的關鍵詞，自動組到隊伍中，如隊伍滿了自動轉團。&簡潔的密語提醒。
+## SavedVariables: WhisperInviteGlobal, WhisperPopDB
+## SavedVariablesPerCharacter: WhisperInviteSettings
+
+## X-Repple: 菜单
+
+Localization.lua
+VirtualScrollList-1.0.lua
+WhisperPop.lua
+MainFrame.lua
+MessageFrame.lua
+OptionFrame.lua
+
+WhisperInvite.xml

@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="快速团队标记" runOnUp="true" category="RayUi">
+    RaidMark_HotkeyPressed(keystate)
+  </Binding>
+</Bindings>

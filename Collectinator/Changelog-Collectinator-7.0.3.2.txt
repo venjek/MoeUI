@@ -1,0 +1,30 @@
+tag 7.0.3.2
+f595d8891f5a0cc46a2493f3bc01a68d2e6fbf19
+Ressy <resa1983@hotmail.com>
+2016-08-30 22:57:09 -0400
+
+Legion launch
+
+
+--------------------
+
+Ressy:
+	- Update former Feast of Winter Veil pets that are on Vendors now.
+	- Add Vendor to toy
+	- Retire Grove Warden
+	- Add Toys, Vendors, Localization
+	- Whoops
+	- Add Engineering toys
+James D. Callahan III:
+	- Fixes to make non-ToyBox toys show up properly.
+	- Move ToyBox scanning code out of Core.lua's COLLECTABLE_SCAN_FUNCS and into its own function in ToyDB.lua
+	- Remove unused parameters and associated cruft.
+	- Kill the header for Core.lua and removed unnecessary function parameters for some scan functions.
+	- Dead code removal.
+Ressy:
+	- Fix location of BMAH
+	- Use Blizzard Localization for boss
+	- Fix location of Auzin
+	- Thaumaturgist's Orb fixes
+	- Add Ravika - sells old retired toys to Horde
+	- Retire War Yeti

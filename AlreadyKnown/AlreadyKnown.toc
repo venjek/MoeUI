@@ -1,0 +1,12 @@
+## Interface: 70000
+## Author: Sanex (Arathor EU)
+## Title: Already Known?
+## Version: v1.8
+## Notes: Puts green/blue/yellow/cyan/purple tint on already known scrolls/pets/other learnable items on vendors
+## SavedVariables: AlreadyKnownSettings
+## X-Curse-Packaged-Version: v1.8
+## X-Curse-Project-Name: Already Known?
+## X-Curse-Project-ID: alreadyknown
+## X-Curse-Repository-ID: wow/alreadyknown/mainline
+
+AlreadyKnown.lua

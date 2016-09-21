@@ -1,0 +1,6 @@
+## Interface: 70000
+## Title: Leatrix Plus Language Pack
+## Version: 7.0.56
+## Author: Siweia
+## Notes: Simplified Chinese
+Leatrix_Plus_Language_Pack.lua
